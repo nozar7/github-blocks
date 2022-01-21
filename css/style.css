@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: darkslategrey;
+  font-weight: bolder;
+}
+
+img {
+  height: 200px;
+}
+
+.caja {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.alighment {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.first {
+  background-color: blue;
+  margin-top: 20px;
+}
+
+.second {
+  background-color: crimson;
+  margin-top: 20px;
+}
+
+.three {
+  background-color: darkkhaki;
+  margin-top: 20px;
+}
